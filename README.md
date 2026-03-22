@@ -107,3 +107,20 @@ The goal is not only to rank strategies, but also to identify:
 ---
 
 ## Project Structure
+FX-Algorithmic-Execution-Validation/
+│
+├── FX_Algo_Execution_Validation.ipynb
+├── README.md
+
+## Conclusion
+
+This project demonstrates a structured approach to validating execution algorithms in FX markets. It highlights the importance of:
+
+- Market dynamics
+- Order size
+- Benchmark comparison
+
+in determining optimal execution strategies.
+
+
+
